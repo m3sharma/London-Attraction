@@ -1,0 +1,28 @@
+SMAP
+galleryold_jsp.java
+JSP
+*S JSP
+*F
++ 0 galleryold.jsp
+galleryold.jsp
++ 1 appvars.jsp
+appvars.jsp
++ 2 header.jsp
+header.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+1:52,2
+2#1,7:55
+2#0,48:62
+1#2,15:110
+16,9:126
+24,42:135
+66,9:178
+74,11:187
+49#0,35:198
+84,64:234
+147,14:298
+1#3,50:312
+160#0,40:362
+*E

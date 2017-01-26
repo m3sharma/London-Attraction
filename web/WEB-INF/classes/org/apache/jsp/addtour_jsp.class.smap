@@ -1,0 +1,32 @@
+SMAP
+addtour_jsp.java
+JSP
+*S JSP
+*F
++ 0 addtour.jsp
+addtour.jsp
++ 1 appvars.jsp
+appvars.jsp
++ 2 header1.jsp
+header1.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+1:61
+2#1,7:63
+2#0,71:70
+1#2,44:141
+45,9:186
+53,14:195
+72#0,40:209
+113,165:251
+277,65:416
+345,30:484
+374,10:514
+387,30:527
+416,10:557
+429,30:570
+458,27:600
+1#3,50:627
+484#0,21:677
+*E
